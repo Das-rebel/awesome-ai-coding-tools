@@ -107,6 +107,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pythagora](https://pythagora.ai/)** – AI agent that builds apps through conversational interaction.
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** – Open-source agent that runs code locally in response to natural language, supporting Python, JS, shell, and more.
 - **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** – Princeton's autonomous agent that resolves real GitHub issues by navigating repos, editing files, and running tests.
+- **[Quay](https://github.com/Das-rebel/quay)** – Autonomous AI Software Factory with customizable agent pipelines, MCP integration, real-time Mission Control dashboard. Self-hosted, MIT license.
 - **[AutoGen](https://github.com/microsoft/autogen)** – Microsoft's multi-agent framework for building AI agent teams that collaborate on coding tasks.
 - **[CrewAI](https://www.crewai.com/)** – Multi-agent orchestration platform for building teams of AI agents for development and automation.
 - **[Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** – GitHub's agent-powered dev environment that turns issues into code changes with plans, specs, and implementation.
